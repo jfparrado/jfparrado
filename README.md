@@ -27,6 +27,11 @@ in which i have been thinking for a while.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+Set an appointment: https://calendly.com/jnsparrado/meeting
+</p>
+
+
+<p align="left">
 <a href="https://linkedin.com/in/jfparradowebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jfparradowebdev" height="30" width="40" /></a>
 </p>
 

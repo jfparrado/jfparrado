@@ -2,6 +2,18 @@
 
 <h1 align="center">Hi 👋, I'm juan felipe parrado salinas</h1>
 <h3 align="center">A passionate Full Stack developer from Colombia</h3>
+<h3 align="left">Who am i?</h3>
+- I am a Fullstack developer. I found my passion on the back-end.
+My first language was c++ when i was 20 years old. Since then i love programing.
+
+<h3 align="left">What do i do?</h3>
+- Right now i am working on personal projects that allow me to learn more about
+different areas and technologies. i love it when i find the solution to a problem 
+in which i have been thinking for a while.
+
+<h3 align="left">Where am i heading to?</h3>
+- My main goal is to evolve and make everything as efficient as possible.
+
 
 - 🌱 I’m currently learning **Typescript**
 

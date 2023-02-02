@@ -1,5 +1,3 @@
-# jobpreparation
-
 <h1 align="center">Hi 👋, I'm juan felipe parrado salinas</h1>
 <h3 align="center">A passionate Full Stack developer from Colombia</h3>
 <h3 align="left">Who am i?</h3>
